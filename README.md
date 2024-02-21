@@ -5,7 +5,7 @@ Welcome to the SQL Database Learning and Management Repository! This repository 
 Features:
 Educational Resources: Access a sample collection of database table, guides, and learning materials covering a wide range of SQL topics, including database design, querying, optimization, and administration.
 
-Sample Datasets: The sample datasets provided in SQL format, perfect for practicing SQL queries, testing database functionalities, and gaining hands-on experience. the sample is pulled from Ben BBrum repository.
+Sample Datasets: The sample datasets is provided in SQL format, perfect for practicing SQL queries, testing database functionalities, and gaining hands-on experience. the sample is pulled from Ben BBrum repository.
 
 Code Snippets: Discover helpful SQL code snippets and examples for common database queries, such as CRUD operations, joins, subqueries, and more.
 
@@ -23,4 +23,4 @@ Contributing: Contributions are welcome! If you have additional learning materia
 Feedback and Suggestions: We value your feedback! If you have any suggestions, ideas, or improvements for this repository, please open an issue or reach out to us.
 
 License:
-This repository is licensed under the General , which means you are free to use, modify, and distribute the contents of this repository for any purpose, including commercial purposes, provided you give appropriate credit and include a copy of the license in any redistribution.
+This repository is licensed under the GNU General Public Licence, which means you are free to use, modify, and distribute the contents of this repository for any purpose, including commercial purposes, provided you give appropriate credit and include a copy of the license in any redistribution.
