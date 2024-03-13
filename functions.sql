@@ -39,10 +39,14 @@ ON   ury.ranking_criteria_id = rs.id
 WHERE `year` = 2016 
 ORDER BY u.id LIMIT 5;
 
+# CREATING arithemetic, geometic and harmonic mean 
+CREATE TABLE trip(
+	speed INT);
 
+INSERT INTO trip VALUES
+	(20), (27), (30), (10), (45), (50), (17), (11), (56), (40);
 
-
-
-
-
-
+SELECT AVG(speed) AS a_mean,
+	   POW(EXP(SUM(LOG(speed))), 1/COUNT(speed)) AS g_mean,
+	   COUNT(*)/(SUM(1/speed)) AS h_mean
+FROM trip;
